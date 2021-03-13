@@ -1,4 +1,4 @@
-### Hey dineshYadav here 👋
+<h1 align="center">Hey dineshYadav here 👋</h1>
 
 <h3 align="center">A self-taught web developer from India</h3>
 
