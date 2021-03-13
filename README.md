@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [mail app](https://mailapp-dinesh.netlify.app/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-dinesh.netlify.app/](https://portfolio-dinesh.netlify.app/)
 
