@@ -61,7 +61,7 @@
 
 ---
 
-
+<p align="left">  
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
@@ -70,4 +70,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 [website]: https://portfolio-dinesh.netlify.app/
 [gmail]:https://mailapp-dinesh.netlify.app/
-[linkedin]: https://www.linkedin.com/in/dinesh-yadav-057055189/
+[linkedin]: https://www.linkedin.com/in/dinesh-yadav-057055189/ </p>
