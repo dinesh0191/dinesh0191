@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh0191&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh0191" /> </p>
 
-- 🔭 I’m currently working on [mail app](https://mailapp-dinesh.netlify.app/)
+- 🔭 I’m currently working on [Mail application](https://mailapp-dinesh.netlify.app/)
 
 - 🌱 I’m currently learning **React Native**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dinesh0191@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IK6H1BEThI4gUFR_P9VppBnJ7Guz67HI/view](https://drive.google.com/file/d/1IK6H1BEThI4gUFR_P9VppBnJ7Guz67HI/view)
+- 📄 Know about my experiences [Portfolio](https://drive.google.com/file/d/1IK6H1BEThI4gUFR_P9VppBnJ7Guz67HI/view)
 
 
 ---
