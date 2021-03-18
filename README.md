@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning - **React Native**
 
-- 👨‍💻 All of my projects are available at - **[Portfolio]**(https://portfolio-dinesh.netlify.app/)
+- 👨‍💻 All of my projects are available at - [Portfolio](https://portfolio-dinesh.netlify.app/)
 
 - 💬 Ask me about - **JavaScript, React**
 
 - 📫 How to reach me - **dinesh0191@gmail.com**
 
-- 📄 Know about my experiences - **[Resume]**(https://drive.google.com/file/d/1IK6H1BEThI4gUFR_P9VppBnJ7Guz67HI/view)
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1IK6H1BEThI4gUFR_P9VppBnJ7Guz67HI/view)
 
 
 ---
