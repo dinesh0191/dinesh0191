@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh0191&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh0191" /> </p>
 
-- 🔭 I’m currently working on [Mail application](https://mailapp-dinesh.netlify.app/)
+- 🔭 I’m currently working on - [Mail application](https://mailapp-dinesh.netlify.app/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning - **React Native**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dinesh.netlify.app/](https://portfolio-dinesh.netlify.app/)
+- 👨‍💻 All of my projects are available at - **[Portfolio]**(https://portfolio-dinesh.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about - **JavaScript, React**
 
-- 📫 How to reach me **dinesh0191@gmail.com**
+- 📫 How to reach me - **dinesh0191@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://drive.google.com/file/d/1IK6H1BEThI4gUFR_P9VppBnJ7Guz67HI/view)
+- 📄 Know about my experiences - **[Resume]**(https://drive.google.com/file/d/1IK6H1BEThI4gUFR_P9VppBnJ7Guz67HI/view)
 
 
 ---
