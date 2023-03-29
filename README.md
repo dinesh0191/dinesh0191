@@ -13,8 +13,6 @@
 
 - 📫 How to reach me - **dinesh0191@gmail.com**
 
-- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1IK6H1BEThI4gUFR_P9VppBnJ7Guz67HI/view)
-
 
 ---
 
